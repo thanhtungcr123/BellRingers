@@ -1,0 +1,7 @@
+First Name: thanhtung
+Last Name: Duong
+Tower: Upper Gumtree
+Captain: True
+Member Since: 05/10/2019
+Methods: 
+Plain Bob
